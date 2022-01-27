@@ -1,0 +1,26 @@
+{
+  "slug": "HoggModds",
+  "name": "Hogg's Modds",
+  "version": "2.0.0",
+  "license": "CC0-1.0",
+  "brand": "HM",
+  "author": "Laurie Hogg",
+  "authorEmail": "lauriehogg1411@gmail.com",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "SIR",
+      "name": "SIR Envelope Generator",
+      "description": "Envelope Generator based on SIR Epidemic Model",
+      "tags": [
+        "Envelope Generator",
+        "Function Generator"
+      ]
+    }
+  ]
+}
