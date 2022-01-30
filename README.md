@@ -1,4 +1,4 @@
-# HoggModds
+# HoggsModds
 
 A few modules I'm developing for VCV Rack
 
