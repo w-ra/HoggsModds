@@ -25,14 +25,14 @@
      showgrid="false"
      width="60.96mm"
      inkscape:zoom="1.2359944"
-     inkscape:cx="97.896884"
-     inkscape:cy="222.49292"
+     inkscape:cx="105.98754"
+     inkscape:cy="262.94618"
      inkscape:window-width="1333"
      inkscape:window-height="802"
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer2" />
+     inkscape:current-layer="layer1" />
   <defs
      id="defs2" />
   <g
@@ -103,12 +103,20 @@
          style="stroke-width:0.180338"
          x="47.809696"
          y="117.33631">R</tspan></text>
+    <rect
+       style="display:inline;fill:#e6e6e6;stroke-width:0.287892"
+       id="rect4411-8"
+       width="56.959999"
+       height="44"
+       x="2.0000014"
+       y="62.789021"
+       inkscape:label="Display" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="components"
-     style="display:inline">
+     style="display:none">
     <circle
        style="fill:#0000ff;stroke-width:0.0751086"
        id="path561"
